@@ -2,7 +2,7 @@ package com.chuehyu
 
 class PersonKotlin {
     fun greeting() {
-        println("hello world")
+        println("Hello world")
     }
 }
 
